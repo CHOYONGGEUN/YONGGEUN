@@ -14,7 +14,7 @@ public class MethodEx1 {
         int y = 25;
         int z = 35;
 
-        sum = x + y + z;
+        sum = x + y+ z;
         average = sum / 3.0;
         System.out.println("평균값: " + average);
     }

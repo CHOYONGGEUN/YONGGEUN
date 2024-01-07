@@ -8,9 +8,9 @@ public class MethodReturn1 {
     }
 
     public static boolean odd(int i) {
-        if (i % 2 == 1) {
+        if(i % 2 ==1){
             return true;
-        } else {
+        }else{
             return false;
         }
     }
