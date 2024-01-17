@@ -1,6 +1,6 @@
 package javastandard.Exception;
 
-public class Exception {
+public class Exception extends Throwable {
     //try-catch문 사용하기
     public static void main(String[] args) {
         int a, b, c;
